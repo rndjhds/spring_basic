@@ -4,10 +4,10 @@ import com.basic.spring_basic.member.MemberRepository;
 import com.basic.spring_basic.member.MemberService;
 import com.basic.spring_basic.member.MemberServiceImpl;
 import com.basic.spring_basic.member.MemoryMemberRepository;
-import com.basic.spring_basic.member.discount.DiscountPolicy;
-import com.basic.spring_basic.member.discount.RateDiscountPolicy;
-import com.basic.spring_basic.member.order.OrderService;
-import com.basic.spring_basic.member.order.OrderServiceImpl;
+import com.basic.spring_basic.discount.DiscountPolicy;
+import com.basic.spring_basic.discount.RateDiscountPolicy;
+import com.basic.spring_basic.order.OrderService;
+import com.basic.spring_basic.order.OrderServiceImpl;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
