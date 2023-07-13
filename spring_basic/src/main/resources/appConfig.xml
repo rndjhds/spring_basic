@@ -9,10 +9,10 @@
 
     <bean id="memberRepository" class="com.basic.spring_basic.member.MemoryMemberRepository"></bean>
 
-    <bean id="orderService" class="com.basic.spring_basic.member.order.OrderServiceImpl">
+    <bean id="orderService" class="com.basic.spring_basic.order.OrderServiceImpl">
         <constructor-arg name="memberRepository" ref="memberRepository"></constructor-arg>
         <constructor-arg name="discountPolicy" ref="discountPolicy"></constructor-arg>
     </bean>
 
-    <bean id="discountPolicy" class="com.basic.spring_basic.member.discount.RateDiscountPolicy"></bean>
+    <bean id="discountPolicy" class="com.basic.spring_basic.discount.RateDiscountPolicy"></bean>
 </beans>

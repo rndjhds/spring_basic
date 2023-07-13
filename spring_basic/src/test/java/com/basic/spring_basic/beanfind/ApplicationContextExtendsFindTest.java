@@ -1,8 +1,8 @@
 package com.basic.spring_basic.beanfind;
 
-import com.basic.spring_basic.member.discount.DiscountPolicy;
-import com.basic.spring_basic.member.discount.FixDiscountPolicy;
-import com.basic.spring_basic.member.discount.RateDiscountPolicy;
+import com.basic.spring_basic.discount.DiscountPolicy;
+import com.basic.spring_basic.discount.FixDiscountPolicy;
+import com.basic.spring_basic.discount.RateDiscountPolicy;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.NoUniqueBeanDefinitionException;

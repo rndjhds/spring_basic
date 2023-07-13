@@ -1,4 +1,4 @@
-package com.basic.spring_basic.member.order;
+package com.basic.spring_basic.order;
 
 public class Order {
 

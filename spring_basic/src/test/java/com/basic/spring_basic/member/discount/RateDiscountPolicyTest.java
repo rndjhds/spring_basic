@@ -1,5 +1,6 @@
 package com.basic.spring_basic.member.discount;
 
+import com.basic.spring_basic.discount.RateDiscountPolicy;
 import com.basic.spring_basic.member.Grade;
 import com.basic.spring_basic.member.Member;
 import org.junit.jupiter.api.DisplayName;

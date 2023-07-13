@@ -1,8 +1,8 @@
 package com.basic.spring_basic.member;
 
 import com.basic.spring_basic.AppConfig;
-import com.basic.spring_basic.member.order.Order;
-import com.basic.spring_basic.member.order.OrderService;
+import com.basic.spring_basic.order.Order;
+import com.basic.spring_basic.order.OrderService;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

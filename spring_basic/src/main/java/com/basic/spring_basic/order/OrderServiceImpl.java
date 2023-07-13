@@ -1,8 +1,8 @@
-package com.basic.spring_basic.member.order;
+package com.basic.spring_basic.order;
 
 import com.basic.spring_basic.member.Member;
 import com.basic.spring_basic.member.MemberRepository;
-import com.basic.spring_basic.member.discount.DiscountPolicy;
+import com.basic.spring_basic.discount.DiscountPolicy;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

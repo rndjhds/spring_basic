@@ -1,4 +1,4 @@
-package com.basic.spring_basic.member.discount;
+package com.basic.spring_basic.discount;
 
 import com.basic.spring_basic.member.Member;
 

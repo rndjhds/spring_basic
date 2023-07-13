@@ -4,8 +4,6 @@ import com.basic.spring_basic.AppConfig;
 import com.basic.spring_basic.member.Grade;
 import com.basic.spring_basic.member.Member;
 import com.basic.spring_basic.member.MemberService;
-import com.basic.spring_basic.member.order.Order;
-import com.basic.spring_basic.member.order.OrderService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

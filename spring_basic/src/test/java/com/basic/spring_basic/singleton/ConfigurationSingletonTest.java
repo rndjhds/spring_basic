@@ -3,7 +3,7 @@ package com.basic.spring_basic.singleton;
 import com.basic.spring_basic.AppConfig;
 import com.basic.spring_basic.member.MemberRepository;
 import com.basic.spring_basic.member.MemberServiceImpl;
-import com.basic.spring_basic.member.order.OrderServiceImpl;
+import com.basic.spring_basic.order.OrderServiceImpl;
 import org.junit.jupiter.api.Test;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
